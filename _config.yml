@@ -1,6 +1,6 @@
 # this is only for search engines, it does not appear in the home
 # as long as the json variables name and description are provided
-title: Hacked Jekyll
+title: this is a mess im so ashamed
 description: Jekyll microtheme that looks like JSON
 baseurl: ""
 url: https://hacked-jekyll.netlify.app
@@ -8,29 +8,29 @@ url: https://hacked-jekyll.netlify.app
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
 json:
-  name: Place Holder
+  name: MiCHAEL w. MERRiAM is not in
   description:
-    - Goodbye!
-    - This little hideaway
-    - is not for you
-  cv: assets/cv.pdf
+    - I'm so sorry. I didn't know 
+    - you were going to be here, I wasn't expecting anyone, sorry it's all in disarray
+    - Wait, why should I abologize? Why are you in here?? NO don't go! I'm so lonely...
+  cv: https://specialagentmerriam.com/files/MichaelWMerriam_CV.pdf
   address:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
+    - The Lost Department, Room -1
+    - Missplaced Academy
+    - 000 Forgotten Street, Wheream Eye, NH
   contact:
-    office: Foobar Hall 1.23
-    phone: +1 234 567 890
-    email: username@domain.com
-  demo: https://hacked-jekyll.netlify.app
-  source: https://github.com/piazzai/hacked-jekyll
-  profiles:
-    facebook: https://www.facebook.com
-    twitter: https://twitter.com
-    instagram: https://www.instagram.com
-    linkedin: https://www.linkedin.com
-    stackoverflow: https://stackoverflow.com
-    github: https://github.com
+    office: I have no office
+    phone: I do not answer the phone
+    email: i_would_only_disappoint_you@really.com
+#  demo: https://hacked-jekyll.netlify.app
+#  source: https://github.com/piazzai/hacked-jekyll
+  things_i_published_or_did:
+   skill_assessment_in_gamfied_curricula: https://vimeo.com/881499662
+   Haitian_is_My_Language: https://specialagentmerriam.com/files/Merriam_Haitian_is_My_Language.pdf
+   Interview_w_Jack_Zipes: https://www.worldliteraturetoday.org/blog/interviews/unvarnished-tales-brothers-grimm-conversation-jack-zipes
+   LA_Review_of_Books: https://lareviewofbooks.org/article/adult-fairy-tales/
+   Partly_Wicked: https://www.partlywicked.com   
+   linkedin: https://www.linkedin.com/in/michael-merriam1/
 
 exclude:
   - LICENSE
