@@ -10,9 +10,9 @@ url: https://hacked-jekyll.netlify.app
 json:
   name: Place Holder
   description:
-    - Hello!
-    - This tiny website
-    - Looks like json
+    - Goodbye!
+    - This little hideaway
+    - is not for you
   cv: assets/cv.pdf
   address:
     - University of Jekyll
