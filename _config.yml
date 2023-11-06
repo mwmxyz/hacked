@@ -22,16 +22,15 @@ json:
     office: I have no office
     phone: I do not answer the phone
     email: i_would_only_disappoint_you@really.com
-#  demo: https://hacked-jekyll.netlify.app
-#  source: https://github.com/piazzai/hacked-jekyll
-  things_i_published_or_did:
+  profiles:
    skill_assessment_in_gamfied_curricula: https://vimeo.com/881499662
    Haitian_is_My_Language: https://specialagentmerriam.com/files/Merriam_Haitian_is_My_Language.pdf
    Interview_w_Jack_Zipes: https://www.worldliteraturetoday.org/blog/interviews/unvarnished-tales-brothers-grimm-conversation-jack-zipes
    LA_Review_of_Books: https://lareviewofbooks.org/article/adult-fairy-tales/
    Partly_Wicked: https://www.partlywicked.com   
    linkedin: https://www.linkedin.com/in/michael-merriam1/
-
+#  demo: https://hacked-jekyll.netlify.app
+#  source: https://github.com/piazzai/hacked-jekyll
 exclude:
   - LICENSE
   - README.md
