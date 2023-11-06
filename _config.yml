@@ -3,23 +3,47 @@
 title: this is a mess im so ashamed
 description: Jekyll microtheme that looks like JSON
 baseurl: ""
-url: https://hacked-jekyll.netlify.app
+url: https://mwmxyz.github.io/academic/
 
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
 json:
-  name: MiCHAEL w. MERRiAM is not in
+  name: MiCHAEL w. MERRiAM is trying really he is
+  
   description:
-    - I'm so sorry. I didn't know 
-    - you were going to be here, I wasn't expecting anyone, sorry it's all in disarray
-    - Wait, why should I abologize? How did you get in here?
-    - NO don't go! I'm so lonely...
-    - My... my contact information? You mean... you'd talk to me?
     - ...
-    - I think you have the wrong room. Are you looking for...
-    - let's see, what's my least irritating name...
-    - what were we just talking about?
-    - Oh wait, I was probably just talking to myself. Phew! This place is in no condition to entertai--ACK!
+    - ...
+    - ..?
+    - .
+    - ?
+    - ......AAAAAAAAaaaAAA!!!!
+    - WHO ARE YOU?! How long have you been standing there?
+    - I shouldn't have yelled. I'm so sorry.  
+    - I just didn't realize anyone would be here.
+    - I haven't had a chance to tidy up, I wasn't expecting anyone
+    - I'm sorry it's all in disarray...
+    - ... Wait...
+    - ...why should I apologize? 
+    - How did you get in here?
+    - ...
+    - WELL?
+    - ...
+    - NO don't go! 
+    - Please don't go
+    - I'm so lonely...
+    - Would you like some contact information? Is that why you came to see me back here?
+    - You wouldn't have to talk to me... you could just take some information... if you like :) ... ?
+    - ...
+    - ... I wonder if you were ever really here...
+    - ... what was... what was I saying?
+    - ... who was I talking to? I thought I ... was talking to someone...?
+    - ... no, that's... that's not right, I live here by myself...
+    - ...
+    - that's it, I was just talking to myself :)
+    - ... Phew! 
+    - Now I'll just sweep over here by the resume's glitch-door and ... 
+    - whatthe?!?!
+    - ....
   cv: https://specialagentmerriam.com/files/MichaelWMerriam_CV.pdf
   address:
     - The Lost Department, Room -1
@@ -30,13 +54,13 @@ json:
     phone: I do not answer the phone
     email: i_would_only_disappoint_you@really.com
   profiles:
+   linkedin: https://www.linkedin.com/in/michael-merriam1/
    BELOW_ARE_THINGS_I_PUBLISHED: https://mwmxyz.github.io
    skill_assessment_in_gamfied_curricula: https://vimeo.com/881499662
    Haitian_is_My_Language: https://specialagentmerriam.com/files/Merriam_Haitian_is_My_Language.pdf
    Interview_w_Jack_Zipes: https://www.worldliteraturetoday.org/blog/interviews/unvarnished-tales-brothers-grimm-conversation-jack-zipes
    LA_Review_of_Books: https://lareviewofbooks.org/article/adult-fairy-tales/
    Partly_Wicked: https://www.partlywicked.com   
-   linkedin: https://www.linkedin.com/in/michael-merriam1/
 #  demo: https://hacked-jekyll.netlify.app
 #  source: https://github.com/piazzai/hacked-jekyll
 exclude:
