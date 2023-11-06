@@ -1,6 +1,6 @@
 # this is only for search engines, it does not appear in the home
 # as long as the json variables name and description are provided
-title: MICHAEL W. MERRIAM IS TRYING HIS BEST
+title: Michael W. Merriam? The name rings a bell...
 description: Jekyll microtheme that looks like JSON
 baseurl: ""
 url: https://mwmxyz.github.io/academic/
@@ -8,7 +8,11 @@ url: https://mwmxyz.github.io/academic/
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
 json:
-  
+  name:
+    - MICHAEL W. MERRIAM
+    - MICHAEL M
+    - MWM
+    - ... 
   description:
     - ...
     - ...
@@ -39,10 +43,11 @@ json:
     - ... no, that's... that's not right, I live here by myself...
     - ...
     - that's it, I was just talking to myself 
-    - ... Phew: https://www.thestolenshore.com 
-    - Now I'll just sweep over here by the resume's glitch-door and ... 
-    - whatthe?!?!
-    - ....
+    - ... Phew 
+    - Now I'll just sweep over here by the resume's glitch-door and .....
+    - ...
+    - ..
+    - .
   cv: https://specialagentmerriam.com/files/MichaelWMerriam_CV.pdf
   address:
     - The Lost Department, Room -1
