@@ -45,11 +45,12 @@ json:
     - Missplaced Academy
     - 000 Forgotten Street, Wheream Eye, NH
   contact:
-    office: I have no office
+    office: I have no office, nor are my most embarrassing memories kept there
     phone: I do not answer the phone
     email: i_would_only_disappoint_you@really.com
   profiles:
    linkedin: https://www.linkedin.com/in/michael-merriam1/
+   no_that_is_not_where_my_most_embarrassing_memories_are_kept: https://mwmxyz.github.io/farwithin/
 #  demo: https://hacked-jekyll.netlify.app
 #  source: https://github.com/piazzai/hacked-jekyll
 exclude:
