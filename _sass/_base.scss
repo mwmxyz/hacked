@@ -12,7 +12,7 @@ main {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  text-transform: lowercase;
+  // text-transform: lowercase;
 
   @media (min-width: 576px) {
     font-size: 18px;
